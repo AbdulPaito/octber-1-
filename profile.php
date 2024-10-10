@@ -201,7 +201,7 @@ form input[type="text"]:focus {
         <th><i class="fas fa-id-badge"></i> ID</th>
         <th><i class="fas fa-user"></i> NAME</th>
         <th><i class="fas fa-book-open"></i> COURSE</th>
-        <th><i></i> Entry Date</th>
+        <th><i class="fas fa-calendar-alt"></i> Entry Date</th>
         <th><i class="fas fa-info-circle"></i> STATUS</th>
         <th><i class="fas fa-edit"></i> EDIT</th>
         <th><i class="fas fa-trash-alt"></i> DELETE</th>
